@@ -1,8 +1,8 @@
 # 💫 About Me:
 <div style="display: flex; flex-direction: column;">
-🔭 Front Developer Enthusiast 👯 I’m looking to collaborate on Work 🤝 I’m looking for help with Learning 🌱 I’m currently learning MERN Stack 💬 Ask me about<br/>
+<p>🔭 Front Developer Enthusiast 👯 I’m looking to collaborate on Work 🤝 I’m looking for help with Learning 🌱 I’m currently learning MERN Stack 💬 Ask me about<br/></p></div>
 <br>![](https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif)</br>
-</div>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@gunz25) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@guns_gunardi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dwigm) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dwigunardimeinaki@medium.com) 
