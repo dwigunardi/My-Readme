@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Front Developer Enthusiast <br>👯 I’m looking to collaborate on Work<br>🤝 I’m looking for help with Learning<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about<br>![](https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif)
+🔭 Front Developer Enthusiast <br>👯 I’m looking to collaborate on Work<br>🤝 I’m looking for help with Learning<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about<br><br>![](https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif)</br>
 
 
 ## 🌐 Socials:
