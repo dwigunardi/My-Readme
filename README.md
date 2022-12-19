@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div style="display: flex; flex-direction: column;">
-🔭 Front Developer Enthusiast 👯 I’m looking to collaborate on Work<br>🤝 I’m looking for help with Learning 🌱 I’m currently learning MERN Stack 💬 Ask me about
-![](https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif)
+🔭 Front Developer Enthusiast 👯 I’m looking to collaborate on Work 🤝 I’m looking for help with Learning 🌱 I’m currently learning MERN Stack 💬 Ask me about
+![Gif](https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif)
 </div>
 
 ## 🌐 Socials:
