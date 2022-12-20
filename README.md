@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-🔭 Front Developer Enthusiast<br/> 👯 I’m looking to collaborate on Work<br/> 🤝 I’m looking for help with Learning<br/> 🌱 I’m currently learning MERN Stack<br/> 💬 Ask me about<br/>
+<h1 align='center'>🔭 Front Developer Enthusiast<h1/> <h1 align='center'>👯 I’m looking to collaborate on Work<h1/> <h1 align="center">🤝 I’m looking for help with Learning<h1/> <h1 align='center'>🌱 I’m currently learning MERN Stack<h1/> <h1 align='center'>💬 Ask me about<h1/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
 
 
 
