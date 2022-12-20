@@ -1,7 +1,15 @@
+<h1 align='center'>Hy i'm Dwi Gunardi M.</h1>
+<h3 align='center'>Front End Developer</h3>
+<p align='center'>I enjoy turning complex problems into simple, beautiful and intuitive solutions. My job is to build functional and user-friendly websites for you.</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+
 # 💫 About Me:
 
-<p align='left'>🔭 Front Developer Enthusiast<p/> <p align='left'>👯 I’m looking to collaborate on Work<p/> <p align="left">🤝 I’m looking for help with Learning<p/> <p align='left'>🌱 I’m currently learning MERN Stack<p/> <p align='left'>💬 Ask me about<p/><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
-
+- 🔭 Front Developer Enthusiast 
+- 👯 I’m looking to collaborate on Work 
+- 🤝 I’m looking for help with Learning
+- 🌱 I’m currently learning MERN Stack
+💬 Ask me about 
 
 
 
