@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-<h1 align='center'>🔭 Front Developer Enthusiast<h1/> <h1 align='center'>👯 I’m looking to collaborate on Work<h1/> <h1 align="center">🤝 I’m looking for help with Learning<h1/> <h1 align='center'>🌱 I’m currently learning MERN Stack<h1/> <h1 align='center'>💬 Ask me about<h1/>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+<p align='center'>🔭 Front Developer Enthusiast<p/> <p align='center'>👯 I’m looking to collaborate on Work<p/> <p align="center">🤝 I’m looking for help with Learning<p/> <p align='center'>🌱 I’m currently learning MERN Stack<p/> <p align='center'>💬 Ask me about<p/><img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/erfjs/Apps/main/prof-img.gif">
+
 
 
 
